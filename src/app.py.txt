@@ -1,0 +1,7 @@
+# Basic Python program
+
+def greet():
+    print("Hello, GitHub! Welcome to my Python repository.")
+
+if __name__ == "__main__":
+    greet()
